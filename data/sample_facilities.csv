@@ -1,0 +1,9 @@
+facility_id,counterparty,product_type,drawn,undrawn,provisions,original_maturity_years,risk_weight
+F001,Corporate A,Undrawn committed credit facility,12000,8000,0,3.0,1.0
+F002,Corporate A,Undrawn committed credit facility,0,5000,0,1.0,1.0
+F003,SME B,Unconditionally cancellable commitment (UCC),1500,2500,0,1.0,0.85
+F004,Corporate C,Performance bond / bid bond / warranty,0,4000,0,2.0,1.0
+F005,Corporate C,Credit substitute guarantee,0,3000,0,5.0,1.0
+F006,Importer D,Trade finance documentary credit,0,2000,0,0.5,1.0
+F007,Retail portfolio,Unconditionally cancellable commitment (UCC),6000,14000,150,1.0,0.75
+F008,Corporate E,Undrawn committed credit facility,4000,1000,4500,4.0,1.5

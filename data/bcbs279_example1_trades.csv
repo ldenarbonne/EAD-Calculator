@@ -1,0 +1,4 @@
+netting_set,trade_id,asset_class,hedging_set,risk_entity,rating,is_index,instrument,direction,option_type,option_position,underlying_price,strike,lambda_shift,notional,mtm,start_years,end_years,maturity_years,exercise_years
+BCBS-EX1,IRS-10Y-PAYFIX,IR,USD,,,False,LINEAR,LONG,,,,,,10000,30,0,10,10,
+BCBS-EX1,IRS-4Y-RECFIX,IR,USD,,,False,LINEAR,SHORT,,,,,,10000,-20,0,4,4,
+BCBS-EX1,SWPN-1Y10Y-REC,IR,EUR,,,False,OPTION,,PUT,BOUGHT,0.06,0.05,0.0,5000,50,1,11,11,1.0
